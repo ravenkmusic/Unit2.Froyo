@@ -1,0 +1,1 @@
+const froyoInput = alert("What flavor(s) of frozen yogurt would you like and how many would you like of each? We offer vanilla, strawberry and coffee.");
